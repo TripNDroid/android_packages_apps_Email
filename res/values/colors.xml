@@ -47,4 +47,6 @@
 
     <color name="quick_response_text_color">#000000</color>
 
+    <color name="badge_icon">#FFEEEEEE</color>
+
 </resources>
